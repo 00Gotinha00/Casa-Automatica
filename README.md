@@ -13,5 +13,6 @@ Para o funcionamento do programa é necessário:
  - **Conexão WiFi**
  - **MqttServer: (broker.hivemq.com)**
  -  **porta: (1883)**
+ -  
 ## Materiais:
 Foram utilizadas 6 lâmpadas de **LED** nas cores verde, amarelo, vermelho,  laranja e azul, 6 **resistores** equiparentes, **ESP32 WiFi**, **Display Oled**, uma **protoboard** de 400 pinos, cabos **jumpers** ,um **Servo Motor** e um **Sensor de Presença**.
