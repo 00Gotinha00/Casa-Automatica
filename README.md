@@ -4,7 +4,7 @@ Nosso projeto tem como sua **principal** meta integrar a casa com um sistema de 
 
  - Simulação: [Casa Automática](https://wokwi.com/projects/349074362081477202)
 
-![Controle: image 
+Controle: imagem
 ## Programa em funcionamento:
 
 Para o funcionamento do programa é necessário:
