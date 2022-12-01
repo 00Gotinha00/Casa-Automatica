@@ -4,7 +4,7 @@ Nosso projeto tem como sua **principal** meta integrar a casa com um sistema de 
 
  - Simulação: [Casa Automática](https://wokwi.com/projects/349074362081477202)
 
-![Controle:](Controle Exemplo:![Exemplo](https://www.google.com/imgres?imgurl=https://www.filipeflop.com/wp-content/uploads/2019/02/mqtt_dash_app_example.jpg&imgrefurl=https://www.filipeflop.com/blog/esp32-e-mqtt-dashboard-android/&tbnid=Z4gvRjRsQoc_JM&vet=12ahUKEwjRrI2zrNf7AhUdq5UCHQBKATQQMygAegUIARDFAQ..i&docid=RqzPHWMyxeMuYM&w=1080&h=1920&q=mqtt%20dash&hl=pt-BR&client=opera-gx&ved=2ahUKEwjRrI2zrNf7AhUdq5UCHQBKATQQMygAegUIARDFAQ))
+![Controle: image 
 ## Programa em funcionamento:
 
 Para o funcionamento do programa é necessário:
