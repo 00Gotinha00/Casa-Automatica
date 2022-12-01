@@ -34,7 +34,7 @@ Foram utilizadas 7 lâmpadas de **LED** nas cores verde, amarelo, vermelho,  lar
 
 ## Como Utilizar:
 
-Primeiramente, instale o software de desenvolvimento **Arduino IDE**. Depois acrescente a seguinte URL na aba Arquivo -> Preferências: `(https://dl.espressif.com/dl/package_esp32_index.json)`, adicione a biblioteca "esp32 configure a placa para **ESP32 DevModule**. Após isso, instale as bibliotecas mencionadas em `Bibliotecas`.
+Primeiramente, instale o software de desenvolvimento **Arduino IDE**. Depois acrescente a seguinte URL na aba Arquivo -> Preferências: `(https://dl.espressif.com/dl/package_esp32_index.json)`, adicione a placa "esp32" em Ferramentas -> Placa -> Gerenciador de Placas e configure a placa para **ESP32 DevModule**. Após isso, instale as bibliotecas mencionadas em `Bibliotecas`.
 
 Ademais, instale o aplicativo MQTT Dash para seu dispositivo móvel. Após instalado, crie um novo _broker_ clicando no símbolo de **+**, localizado no canto superior direito, colocando o endereço de IP e a porta, mencionados em `Configurações do MQTT:`.
 
@@ -45,6 +45,14 @@ Por fim, verifique se o sistema está funcionando de forma correta. Caso contrá
 ## Bibliotecas
 
 - **EspMQTTClient**;
+- **Adafruit GFX Library**;
+- **WiFi**;
+- **Adafruit SSD 1306**;
+- **ESP32Servo**;
+- **Adafruit BusIO**;
+- **ESPPubSubClientWrapper**;
+- **MQTTPubSubClient**;
+- **PubSubClient**.
 
 
 
