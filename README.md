@@ -2,6 +2,8 @@
 
 Nosso projeto tem como sua **principal** meta integrar a casa com um sistema de **iluminação** e de **motores** para portões via **WiFi** com a ajuda do aplicativo de celular [MQTT Dash](https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=pt_BR&gl=US), Integrar todos os controladores da casa em um só lugar, facilitando a vida do utilizador e estabelecendo um controle total da casa na palma da mão. 
 
+Configurações do MQTT:
+
 - MQTT Server (broker.hivemq.com)
  - Porta (1883)
  - Conexão WiFi padrão
